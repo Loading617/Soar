@@ -1,2 +1,2 @@
 # Galaxy
-Sega CD Emulator
+Sega CD Emulator for Windows
