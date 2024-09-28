@@ -1,0 +1,2 @@
+# Galaxy
+Sega CD Emulator
